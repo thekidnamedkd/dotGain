@@ -63,8 +63,8 @@ export const HomePageTemplate = ({
 
     <section className="section">
       <div className="container">
-        <PostSection title="features" />
-        <Accordion title="features" items={accordion} />
+        <PostSection title="about dotGain" />
+        <Accordion title="about dotGain" items={accordion} />
       </div>
     </section>
 

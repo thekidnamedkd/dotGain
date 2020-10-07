@@ -7,9 +7,9 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: 'headless',
-    description: 'the shopify + gatsby starter theme for digital commerce',
-    siteUrl: 'https://headless.us',
+    title: 'dotGain',
+    description: 'a sustainable vendor solution for social justice art',
+    siteUrl: 'https://dotgain.io',
   },
   plugins: [
     'gatsby-transformer-yaml',

@@ -32,7 +32,6 @@
 
 ##### Friday Oct. 2, 2020 
 
-
 * _08:00 AM - Begin assessing days work_
 * _08:30 AM - Make repo for actual project (see 'Capstone Project Repo' link above)_ 
 * _09:00 AM - Start considering Gatsby Starters_

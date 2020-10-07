@@ -1,7 +1,7 @@
 {
-  "name": "headless",
-  "HomePage": "https://headless.us",
-  "description": "the shopify + gatsby starter theme for digital commerce",
+  "name": "dotGain",
+  "HomePage": "https://dotgain.io",
+  "description": "A sustainable vendor for social justice art",
   "version": "0.4.5",
   "repository": {
     "type": "git",
