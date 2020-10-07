@@ -54,7 +54,7 @@ export const HomePageTemplate = ({
       <section className="section">
         <div className="container">
           <PostSection
-            title="demo shop"
+            title="latest pieces"
             posts={convertProductsToPostFormat(products)}
           />
         </div>
