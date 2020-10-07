@@ -2,7 +2,7 @@
 template: SinglePost
 title: the shopify + gatsby starter theme for digital commerce
 status: Published
-date: '2020-05-22T14:15:12'
+date: '2020-10-06T14:15:12'
 tags:
   - Shopify
   - GatsbyJS
