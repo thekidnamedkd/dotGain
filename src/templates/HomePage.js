@@ -6,6 +6,7 @@ import PostSection from '../components/PostSection'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import Accordion from '../components/Accordion'
+import GoogleMap from '../components/GoogleMap'
 
 export const convertProductsToPostFormat = products => {
   let formattedProducts = []
@@ -35,6 +36,7 @@ export const HomePageTemplate = ({
   accordion,
   posts,
   products,
+  locations
 }) => (
   <main className="Home">
     <PageHeader
@@ -67,7 +69,9 @@ export const HomePageTemplate = ({
         <Accordion title="community and capstone" items={accordion} />
       </div>
     </section>
-    
+
+    <GoogleMap locations={locations} />
+
     {!!posts.length && (
       <section className="section">
         <div className="container">
@@ -115,6 +119,11 @@ export const pageQuery = graphql`
         accordion {
           title
           content
+        }
+        locations {
+          mapLink
+          lat
+          lng
         }
       }
     }
