@@ -1,9 +1,9 @@
 ---
 template: ContactPage
 slug: contact
-title: Get in Touch
-featuredImage: '../images/ecomloop_ecommerce_development_header_wall_shadow.png'
-subtitle: Have an interesting project? Let's talk!
+title: get in touch
+featuredImage: '../images/downtown.jpg'
+subtitle: this concept runs on constant feedback
 address: |-
   2812 SE Main St.
   Portland, OR 97214
@@ -20,4 +20,4 @@ meta:
 ---
 # Let's talk!
 
-Send us more info and we'll get back to you shortly if it's a good fit.
+This is a concept site meant for collaboration and input. Please feel free to leave questions or comments here. Especially if you want to get involved.
