@@ -12,7 +12,7 @@ const CartPage = () => (
     backgroundImage="../images/downtown.jpg"  />
     <section className="section">
       <div className="container">
-        <h1>Cart</h1>
+        <h2>Cart</h2>
         <Cart />
       </div>
     </section>

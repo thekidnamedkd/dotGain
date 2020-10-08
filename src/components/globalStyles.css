@@ -65,12 +65,21 @@ p {
   margin-bottom: 1em;
 }
 
-h1, h2
+h1
 {
   margin: 0;
   margin-bottom: 0.5em;
   font-family: 'Roboto Slab', serif;
-font-weight:700;
+  font-weight:700;
+  text-shadow: black 2px 2px;
+}
+
+h2
+{
+  margin: 0;
+  margin-bottom: 0.5em;
+  font-family: 'Roboto Slab', serif;
+  font-weight:700;
 }
 
 h3,

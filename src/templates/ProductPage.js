@@ -31,9 +31,9 @@ const ProductPage = ({ data }) => {
             <ProductGalleryThumbnails productimages={product.images} />
 
             {product.title && (
-              <h1 className="SingleService--Title" itemProp="title">
+              <h2 className="SingleService--Title" itemProp="title">
                 {product.title}
-              </h1>
+              </h2>
             )}
 
             <div className="SingleService--InnerContent">
@@ -43,7 +43,7 @@ const ProductPage = ({ data }) => {
               />
             </div>
 
-            <div className="SingleService--Pagination">
+            {/* <div className="SingleService--Pagination">
               {thisEdge && thisEdge.previous && thisEdge.previous.handle && (
                 <Link
                   className="SingleService--Pagination--Link prev"
@@ -60,7 +60,7 @@ const ProductPage = ({ data }) => {
                   Next Service
                 </Link>
               )}
-            </div>
+            </div> */}
           </div>
         </div>
       </article>

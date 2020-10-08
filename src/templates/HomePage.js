@@ -71,7 +71,9 @@ export const HomePageTemplate = ({
     </section>
 
     <GoogleMap locations={locations} />
-
+    <div className="container">
+      <h5>The pins represent the physical lat/lng of the businesses found in the Trusted Print Shop link above in resources. This feature will soon be interactive and real-time. Integration with fullfillment by POC, Women, and Queer-owned independent shops is a core concept to dotGain's mission.</h5>
+    </div>
     {!!posts.length && (
       <section className="section">
         <div className="container">

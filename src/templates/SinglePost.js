@@ -53,9 +53,9 @@ export const SinglePostTemplate = ({
             </div>
 
             {title && (
-              <h1 className="SinglePost--Title" itemProp="title">
+              <h2 className="SinglePost--Title" itemProp="title">
                 {title}
-              </h1>
+              </h2>
             )}
 
             <div className="SinglePost--InnerContent">
