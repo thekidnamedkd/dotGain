@@ -1,5 +1,4 @@
 import React, { Fragment } from 'react'
-import Helmet from 'react-helmet'
 import { stringify } from 'qs'
 import { serialize } from 'dom-form-serializer'
 
@@ -9,7 +8,7 @@ class Form extends React.Component {
   static defaultProps = {
     name: 'contact_form',
     subject: 'success - form submitted', // optional subject of the notification email
-    action: 'https://getform.io/f/93249524-1fb5-46d8-b6e2-7c5a0ecf42e0',
+    action: 'https://getform.io/f/8056e6aa-c716-487e-8b50-9fecbd2d4d16',
     successMessage: 'Good to hear from you! We will get back to you soon.',
     errorMessage:
       'There is a problem and your message has *not* been sent. Please send an email to hello@ecomloop.com',
@@ -58,9 +57,9 @@ class Form extends React.Component {
 
     return (
       <Fragment>
-        <Helmet>
+        {/* <Helmet>
           <script src="https://www.google.com/recaptcha/api.js" />
-        </Helmet>
+        </Helmet> */}
         <form
           className="Form"
           method="post"
@@ -116,7 +115,7 @@ class Form extends React.Component {
             />
             <span>Website address</span>
           </label>
-          <label className="Form--Label has-arrow">
+          {/* <label className="Form--Label has-arrow">
             <select
               className="Form--Input Form--Select"
               name="type"
@@ -130,7 +129,7 @@ class Form extends React.Component {
               <option>Existing project</option>
               <option>Partnership</option>
             </select>
-          </label>
+          </label> */}
           <label className="Form--Label">
             <textarea
               className="Form--Input Form--Textarea Form--InputText"
@@ -141,7 +140,7 @@ class Form extends React.Component {
             />
             <span>Message</span>
           </label>
-          <label className="Form--Label Form-Checkbox">
+          {/* <label className="Form--Label Form-Checkbox">
             <input
               className="Form--Input Form--Textarea Form--CheckboxInput"
               name="newsletter"
@@ -153,8 +152,8 @@ class Form extends React.Component {
           <div
             className="g-recaptcha"
             data-sitekey="6LeNl-YUAAAAALV_EC01bmbTdnBXnWEWMg1EJRv4"
-          />
-          {!!subject && <input type="hidden" name="subject" value={subject} />}
+          />*/}
+          {!!subject && <input type="hidden" name="subject" value={subject} />} 
           <input type="hidden" name="form-name" value={name} />
           <input
             className="Button Form--SubmitButton"
