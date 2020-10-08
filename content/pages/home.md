@@ -8,7 +8,10 @@ subtitle: >-
 
 accordion:
   - content: >-
-      [Print Shop Link](https://docs.google.com/spreadsheets/u/0/d/1EBw1Hh9xrzKvplJZ6NEeNvglrBeIKSHXHeeWwri6Nao/htmlview#)
+      - **[Trusted Print Shops](https://docs.google.com/spreadsheets/u/0/d/1EBw1Hh9xrzKvplJZ6NEeNvglrBeIKSHXHeeWwri6Nao/htmlview#)**
+      - **[Trusted Print Shops](https://docs.google.com/spreadsheets/u/0/d/1EBw1Hh9xrzKvplJZ6NEeNvglrBeIKSHXHeeWwri6Nao/htmlview#)**
+      - **[Trusted Print Shops](https://docs.google.com/spreadsheets/u/0/d/1EBw1Hh9xrzKvplJZ6NEeNvglrBeIKSHXHeeWwri6Nao/htmlview#)**
+      - **[Trusted Print Shops](https://docs.google.com/spreadsheets/u/0/d/1EBw1Hh9xrzKvplJZ6NEeNvglrBeIKSHXHeeWwri6Nao/htmlview#)**
     title: RESOURCES
   - content: >-
       [GatsbyJS](https://www.gatsbyjs.com/)
