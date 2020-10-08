@@ -25,7 +25,10 @@ accordion:
       
     title: RESOURCES & ALLIES
   - content: >-
-      [GatsbyJS](https://www.gatsbyjs.com/)
+      [ecommloop Headless CMS](https://ecomloop.com/)<br>
+      [Shopify](https://shopify.com)<br>
+      [Google Maps API](https://maps.google.com)<br>
+      [GatsbyJS](https://gatsbyjs.com)
     title: DOTGAIN TECH STACK
   
 meta:
