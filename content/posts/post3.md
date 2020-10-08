@@ -7,7 +7,7 @@ tags:
   - Shopify
   - GatsbyJS
   - ecomloop
-featuredImage: '../images/downtown.jpg'
+featuredImage: '../images/Adam_Garcia.jpg'
 excerpt: >-
   
 categories:

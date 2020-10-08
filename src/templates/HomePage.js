@@ -6,6 +6,7 @@ import PostSection from '../components/PostSection'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import Accordion from '../components/Accordion'
+import Accordion2 from '../components/Accordion2'
 
 export const convertProductsToPostFormat = products => {
   let formattedProducts = []
@@ -63,11 +64,11 @@ export const HomePageTemplate = ({
 
     <section className="section">
       <div className="container">
-        <PostSection title="community resources" />
-        <Accordion title="community resources" items={accordion} />
+        <PostSection title="community and capstone" />
+        <Accordion title="community and capstone" items={accordion} />
       </div>
     </section>
-
+    
     {!!posts.length && (
       <section className="section">
         <div className="container">

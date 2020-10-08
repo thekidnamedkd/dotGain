@@ -7,7 +7,7 @@ tags:
   - Shopify
   - GatsbyJS
   - ecomloop
-featuredImage: '../images/downtown.jpg'
+featuredImage: '../images/Dany_Reede.jpg'
 excerpt: >-
   
 categories:

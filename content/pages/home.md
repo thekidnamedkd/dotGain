@@ -26,7 +26,7 @@ accordion:
     title: RESOURCES & ALLIES
   - content: >-
       [GatsbyJS](https://www.gatsbyjs.com/)
-    title: TECH STACK
+    title: DOTGAIN TECH STACK
   
 meta:
   description: >-
