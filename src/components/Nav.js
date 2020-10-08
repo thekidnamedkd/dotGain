@@ -89,16 +89,6 @@ export class Navigation extends Component {
             <NavLink to="/products/">Shop</NavLink>
 
             <NavLink to="/blog/">Blog</NavLink>
-
-            <a
-              href="https://github.com/ecomloop/headless/"
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Find on GitHub"
-              class="Nav--CTA"
-            >
-              download on github
-            </a>
           </div>
           <button
             className="Nav--MenuButton"

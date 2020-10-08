@@ -71,7 +71,7 @@ export const HomePageTemplate = ({
     {!!posts.length && (
       <section className="section">
         <div className="container">
-          <PostSection title="Recent Blog Posts" posts={posts} />
+          <PostSection title="latest blog posts" posts={posts} />
         </div>
       </section>
     )}

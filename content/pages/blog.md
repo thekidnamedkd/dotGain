@@ -2,10 +2,10 @@
 template: BlogIndex
 slug: blog
 title: blog
-featuredImage: ''
-subtitle: Dazzling posts about innovative Shopify+GatsbyJS stores
+featuredImage: '../images/downtown.jpg'
+subtitle: the latest thoughts from arts and community leaders
 meta:
   description: >-
-    publish fancy posts about your shopify store here
+    publish blog posts here
   title: blog
 ---
