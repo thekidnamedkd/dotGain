@@ -3,7 +3,7 @@ template: BlogIndex
 slug: blog
 title: blog
 featuredImage: '../images/downtown.jpg'
-subtitle: the latest thoughts from arts and community leaders
+subtitle: the latest thoughts from artists and community leaders
 meta:
   description: >-
     publish blog posts here

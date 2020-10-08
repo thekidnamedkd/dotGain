@@ -27,6 +27,7 @@
 }
 
 @import url('https://fonts.googleapis.com/css2?family=DM+Mono&family=Jost:ital,wght@0,300;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@900&display=swap');
 
 
 html {
@@ -67,7 +68,7 @@ h1, h2
 {
   margin: 0;
   margin-bottom: 0.5em;
-font-family: 'Jost', sans-serif;
+  font-family: 'Roboto Slab', serif;
 font-wegiht:700;
 }
 

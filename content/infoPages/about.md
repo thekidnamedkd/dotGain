@@ -1,9 +1,9 @@
 ---
 template: DefaultPage
 slug: about
-title: about us
-subtitle: Ecomloop helps uncommon businesses succeed in the digital economy
-featuredImage: '../images/ecomloop_ecommerce_development_notes.png'
+title: about dotGain
+subtitle: a project for the people
+featuredImage: '../images/downtown.jpg'
 ---
 Ecomloop helps uncommon businesses succeed in the digital economy.
 
