@@ -30,6 +30,6 @@ accordion:
   
 meta:
   description: >-
-    sustainable vendor for social justice art
-  title: dotGain
+    a sustainable vendor concept for social justice art
+  title: art for equity
 ---
