@@ -110,10 +110,10 @@ const ProductForm = ({ product }) => {
     <center>
       {options.map(({ id, name, values }, index) => (
         <React.Fragment key={id}>
-          <label className="Form--Label" style={{ width: '33%' }}>
+          <label className="Form--Label" style={{ width: '100%' }}>
             {name}
           </label>
-          <label className="Form--Label has-arrow" style={{ width: '33%' }}>
+          <label className="Form--Label has-arrow" style={{ width: '100%' }}>
             <select
               name={name}
               className="Form--Input Form--Select"
@@ -133,8 +133,9 @@ const ProductForm = ({ product }) => {
           </label>
         </React.Fragment>
       ))}
+      <br />
       <input
-        type="hidden"
+        className="Form--Input Form--Select"
         id="quantity"
         name="quantity"
         min="1"
