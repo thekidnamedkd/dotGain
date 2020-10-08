@@ -6,7 +6,7 @@ featuredImage: '../images/downtown.jpg'
 subtitle: this concept runs on constant feedback
 address: |-
   Currently based in Portland, OR
-phone: https://www.linkedin.com/in/kevinrobertdavis
+phone: http://www.rb.gy/ej1gir
 email: whomst@kevind.xyz
 locations:
   - lat: '45.513370'
