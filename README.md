@@ -83,13 +83,14 @@
 * _"I chose Gatsby to quickly bootstrap a project within a React framework by combining the speed and convenience of GraphQL with a basic frontend."_
 * _"I found the headless CMS and ecommerce starter within many examples of why developers are quickly bootstrapping projects with Gatsby to take advantage of a Content Mesh of microservices that integrate quickly, cutting down development time and spinning up a platform for my MVP very nicely."_
 
-#### API's and Microservices
+#### Technologies Used
 
 - **[ecommloop Headless CMS](https://ecomloop.com/)**: Localized product content, blog space, front end, and order management.
 - **[Shopify](https://shopify.com)**: Used to securely process payments and Strong Customer Authentication.
 - **[Google Maps](https://maps.google.com)**: Used to implement API for local print shops
+- **[Google Maps](https://maps.google.com)**: Used to quickly bootstrap a project which can quickly combine a content mesh of microservices
 
-#### Auxillary Software
+#### Documentation Software
 - **[Gyazo](https://gyazo.com)**: Capture GIFs from your machine to add rich media to documentation.
 
 #### 🎨 Mockups & Artwork
