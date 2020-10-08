@@ -8,7 +8,7 @@ const ServicesPage = () => (
     <PageHeader
       title="shop the demo store"
       subtitle="check out the aweswome products"
-      backgroundImage="../images/headless_hero.jpg"
+      backgroundImage="../images/downtown.jpg"
     />
     <section className="section">
       <div className="container">

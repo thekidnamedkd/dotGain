@@ -9,7 +9,7 @@ subtitle: >-
 accordion:
   - content: >-
       [GatsbyJS](https://www.gatsbyjs.com/)
-    title: ARTIST PROFILES
+    title: TECH STACK
  
 meta:
   description: >-
