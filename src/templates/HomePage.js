@@ -6,7 +6,6 @@ import PostSection from '../components/PostSection'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import Accordion from '../components/Accordion'
-import Accordion2 from '../components/Accordion2'
 
 export const convertProductsToPostFormat = products => {
   let formattedProducts = []
