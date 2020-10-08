@@ -4,7 +4,7 @@ slug: ''
 title: welcome to dotGain
 featuredImage: './images/downtown.jpg'
 subtitle: >-
-  ## a sustainable vendor concept for social justice art
+  ### a sustainable vendor concept for social justice art
 
 accordion:
   - content: >-
@@ -19,8 +19,3 @@ meta:
     sustainable vendor for social justice art
   title: dotGain
 ---
-
-
-##
-
-
