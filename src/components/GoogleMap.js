@@ -13,7 +13,7 @@ class GoogleMap extends Component {
       lat: 45.513605,
       lng: -122.636730,
     },
-    zoom: 10,
+    zoom: 12,
   }
 
   render() {
@@ -38,7 +38,7 @@ export default GoogleMap
 
 const Marker = () => {
   return (
-    <div style={{ color: 'blue' }}>
+    <div style={{ color: 'red' }}>
       <MapPin />
     </div>
   )

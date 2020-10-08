@@ -6,6 +6,11 @@ featuredImage: './images/downtown.jpg'
 subtitle: >-
   ### a sustainable vendor concept for social justice art
 
+locations:
+  - lat: '45.513370'
+    lng: '-122.636770'
+    mapLink: ''
+    
 accordion:
   - content: >-
       [PAALF](https://www.paalf.org/)<br>
