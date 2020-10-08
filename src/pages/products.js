@@ -6,7 +6,7 @@ import ProductGrid from '../components/ProductGrid'
 const ServicesPage = () => (
   <Layout>
     <PageHeader
-      title="dotGain store"
+      title="dotGain source"
       subtitle="support these artists, support these shops"
       backgroundImage="../images/downtown.jpg"
     />
