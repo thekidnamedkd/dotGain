@@ -1,5 +1,5 @@
 # 'dotGain' | Headless CMS + Sustainable Vendor for Social Justice Art
-#### A capstone prroject for 'C#/.NET + React' graduation from Epicodus
+#### A capstone project for 'C#/.NET + React' graduation from Epicodus
 ##### ✏️ Kevin Davis
 
 ![Lead Cover](https://i.ibb.co/HY4grXv/leadcover.jpg)
