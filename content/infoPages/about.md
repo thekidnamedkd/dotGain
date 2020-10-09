@@ -1,7 +1,7 @@
 ---
 template: DefaultPage
 slug: about
-title: about dotGain
+title: about
 subtitle: a project for the people
 featuredImage: '../images/downtown.jpg'
 ---

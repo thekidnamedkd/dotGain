@@ -42,25 +42,6 @@ const ProductPage = ({ data }) => {
                 dangerouslySetInnerHTML={{ __html: product.descriptionHtml }}
               />
             </div>
-
-            {/* <div className="SingleService--Pagination">
-              {thisEdge && thisEdge.previous && thisEdge.previous.handle && (
-                <Link
-                  className="SingleService--Pagination--Link prev"
-                  to={`/service/${thisEdge.previous.handle}`}
-                >
-                  Previous Service
-                </Link>
-              )}
-              {thisEdge && thisEdge.next && thisEdge.next.handle && (
-                <Link
-                  className="SingleService--Pagination--Link next"
-                  to={`/solution/${thisEdge.next.handle}`}
-                >
-                  Next Service
-                </Link>
-              )}
-            </div> */}
           </div>
         </div>
       </article>

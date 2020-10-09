@@ -15,7 +15,7 @@ locations:
 meta:
   description: >-
     Contact Info
-  title: Contact Page
+  title: say hi
 ---
 ## Let's talk!
 

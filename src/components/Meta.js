@@ -18,7 +18,7 @@ export const query = graphql`
 export default class Meta extends Component {
   render() {
     const {
-      title,
+      title = 'art for equity',
       url,
       description,
       absoluteImageUrl = '',
