@@ -6,7 +6,7 @@ import './Cart.css'
 
 const Cart = () => {
   const {
-    store: { checkout },
+    store: { checkout }
   } = useContext(StoreContext)
 
   const handleCheckout = () => {
@@ -18,7 +18,7 @@ const Cart = () => {
   })
 
   return (
-    <div>
+    <div style={{ marginBottom: '15px' }}>
       <div className="Cart--table">
         <div className="Cart--row">
           <div className="Cart--cell">
