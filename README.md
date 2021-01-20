@@ -15,6 +15,9 @@
 <hr />
 <br />
 
+## Current Site Status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f4666014-6fc6-4ebf-a200-c0cd11930166/deploy-status)](https://app.netlify.com/sites/stupefied-bell-d4e6fb/deploys)
+
 ## 🎈 About
 
 dotGain aims to be a reliable place to gather and view art that has been made around social justice movements and then provide those who wish to support those artists and independent print shops with their business rather than FedEx or other corporate outlets. That while there is a ton of free content out there in this time, if we took control of the entire means of production and created a sustainable engine which monetizes this amazing artwork only for the creators and the community, we could create a highly dynamic fund to support the very ends the art seeks to comment on.
