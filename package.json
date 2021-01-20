@@ -1,11 +1,11 @@
 {
-  "name": "dotGain",
-  "HomePage": "https://dotgain.io",
-  "description": "A sustainable vendor for social justice art",
+  "name": "dotgain",
+  "HomePage": "https://dotgain.xyz",
+  "description": "a sustainable vendor for social justice art",
   "version": "0.4.5",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ecomloop/headless"
+    "url": "https://github.com/thekidnamedkd/dotGain/"
   },
   "dependencies": {
     "@fs/gatsby-plugin-drive": "^0.2.1",
